@@ -2,7 +2,7 @@
 
 Dmitry Budker, Valerie Domcke, Joachim Kopp, Oleg Tretiak
 
-arXiv:[2607.YYYYY](https://arxiv.org/abs/2607.YYYYY)
+arXiv:[2607.12617](https://arxiv.org/abs/2607.12617)
 
 ## Overview
 
